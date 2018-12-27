@@ -1,2 +1,2 @@
 target:crossroad	
-	gcc main.c -lpthread -o crossroad
+	gcc P1-1.c -lpthread -o crossroad
